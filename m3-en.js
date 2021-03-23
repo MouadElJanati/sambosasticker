@@ -322,7 +322,7 @@ const convertSticker = function(shape, author, pack, mediaData, type) {
       "pack": pack,
       "author": author,
       "shape": shape,
-      "api_key": "JDJiJDEwJEtBMm0wUDRzRmZnZjFLSTFhTkdCT3VKTnN1dHouenhlVlUVVqcHlVMWk1SURnSnpUZjNl",
+      "api_key": "JDJiJDEwJGZ6c0h3SGFRSUFpVk1BMXF4RXdIVS4xQmJpNXowTnRIOExxQkRub3FyaWlJRllKRDFnakRD",
 // api_key || https://stickerman.org
     };
     var url = "https://stickerman.org/api/convert";
